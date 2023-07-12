@@ -48,3 +48,18 @@ top: 0px;
 padding: 0 30px;
 
 }
+
+.navbar a{
+    color: whitesmoke;
+    padding: 10px 20px;
+    margin: 0 5px;
+}
+
+.navbar a:hover{
+    border-bottom: green 2px solid;
+
+}
+
+.navbar ul {
+    display: flex;
+}
