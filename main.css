@@ -63,3 +63,7 @@ padding: 0 30px;
 .navbar ul {
     display: flex;
 }
+
+.navbar .logo {
+    font-weight: 430;
+}
